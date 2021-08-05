@@ -1,5 +1,7 @@
 # TypeScript Application
 https://www.youtube.com/watch?v=nTeuhbP7wdE
+
+
 • npx create-react-app react-rmdb-ts --template typescript
 => run project on VSCode
 •npm install
