@@ -1,3 +1,11 @@
+# TypeScript Application
+
+• npx create-react-app react-rmdb-ts --template typescript
+=> run project on VSCode
+•npm install
+• npm i styled-components @types/styled-components
+• npm i history react-router-dom@next @types/react-router-dom
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
